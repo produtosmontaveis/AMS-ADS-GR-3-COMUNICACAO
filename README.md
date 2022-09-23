@@ -2,9 +2,9 @@
 
 ## Planejamento inicial - 20/05
 
-As ideias de projetos propostas pelos corpos docente e discente foram atribuídas às equipes. Esse projeto foi proposto pelo prof. Aytron Barboni da Fatec São Paulo. O professor possui demonstrações físicas que ele utiliza para explicar o conteúdo de [produtos notáveis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPj5Dou7L5AhVXIrkGHeV5BiQQFnoECBwQAw&url=https%3A%2F%2Fbrasilescola.uol.com.br%2Fo-que-e%2Fmatematica%2Fo-que-sao-produtos-notaveis.htm&usg=AOvVaw08n0NbtDGFz-e05LjJQlnm) de forma que os alunos entendam um conceito abstrato através do aprendizado visual. O projeto tem como objetivo auxiliar e incentivar o aprendizado dos alunos por todo o país sobre o tópico de produtos notáveis em plataformas virtuais pelo processo de [gamificação](https://pt.wikipedia.org/wiki/Ludifica%C3%A7%C3%A3o). 
+As ideias de projetos propostas pelos corpos docente e discente foram atribuídas às equipes. Esse projeto foi proposto pelo prof. Aytron Barboni da Fatec São Paulo. O professor possui demonstrações físicas que ele utiliza para explicar o conteúdo de [produtos notáveis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPj5Dou7L5AhVXIrkGHeV5BiQQFnoECBwQAw&url=https%3A%2F%2Fbrasilescola.uol.com.br%2Fo-que-e%2Fmatematica%2Fo-que-sao-produtos-notaveis.htm&usg=AOvVaw08n0NbtDGFz-e05LjJQlnm) de forma que os alunos entendam um conceito abstrato através do aprendizado visual. O projeto tem como objetivo auxiliar e incentivar o aprendizado dos alunos por todo o país sobre o tópico de produtos notáveis em plataformas virtuais pelo processo de [gamificação](https://pt.wikipedia.org/wiki/Ludifica%C3%A7%C3%A3o).
 
- A equipe responsável por esse projeto é composta pelos integrantes [@Gustavo Almeida Carvalho](https://www.linkedin.com/in/gustavo-almeida-carvalho-39b22b219/), [@Pedro Henrique Peruzzi Vandelei](https://www.linkedin.com/in/pedro-henrique-peruzzi-vanderlei-bb66321a2/), [@João Gabirel Ávila Ruiz](#planejamento-inicial---2005), [@Nathan Morais Adriano da Silva](https://www.linkedin.com/in/nathan-morais-487369232/), [@Yago Cauan de Oliveira da Silva](https://www.linkedin.com/in/yago-cauan-71717421b/)
+A equipe responsável por esse projeto é composta pelos integrantes [@Gustavo Almeida Carvalho](https://www.linkedin.com/in/gustavo-almeida-carvalho-39b22b219/), [@Pedro Henrique Peruzzi Vandelei](https://www.linkedin.com/in/pedro-henrique-peruzzi-vanderlei-bb66321a2/), [@João Gabirel Ávila Ruiz](https://github.com/JGAR77), [@Nathan Morais Adriano da Silva](https://www.linkedin.com/in/nathan-morais-487369232/), [@Yago Cauan de Oliveira da Silva](https://www.linkedin.com/in/yago-cauan-71717421b/)
 
 ## Apresentação do projeto pelo professor Ayrton Barboni - 27/05
 
@@ -24,13 +24,13 @@ Após a apresentação do professor Aytron, o professor e orientador do projeto 
 
 ## Prototipação e PoC - 24/06
 
-O professor Carlos Veríssimo atribuiu às equipes uma apresentação da prototipação do projeto como preparação para demonstração ao cliente principal do projeto. A prototipação consisitia no desenvolvimento dos *layouts* das telas e relacionamentos entre as interfaces da aplicação mobile.
+O professor Carlos Veríssimo atribuiu às equipes uma apresentação da prototipação do projeto como preparação para demonstração ao cliente principal do projeto. A prototipação consisitia no desenvolvimento dos _layouts_ das telas e relacionamentos entre as interfaces da aplicação mobile.
 
 Além disso, foi pedido que as equipes realizassem uma [PoC](https://pt.wikipedia.org/wiki/Prova_de_conceito) na qual os alunos deveriam demonstrar através de uma aplicação desenvolvida pela equipe, o funcionamento inicial e protótipo de estruturação do projeto. Para isso, o prof. Carlos instruiu as equipes a realizarem a implantação do projeto final na plataforma Heroku, juntamente com um material de apoio.
 
 ## Apresentação do protótipo ao professor Ayrton - 30/06
 
-Seguindo as práticas de metodologia ágil, foi marcada uma reunião entre as partes interessadas do projeto e a equipe de desenvolvimento, de modo que a equipe recebesse *feedback* sobre o andamento e compreendimento dos requisitos.
+Seguindo as práticas de metodologia ágil, foi marcada uma reunião entre as partes interessadas do projeto e a equipe de desenvolvimento, de modo que a equipe recebesse _feedback_ sobre o andamento e compreendimento dos requisitos.
 
 A reunião foi feita de maneira remota pela plataforma Microsoft Teams e contou com a presença do prof. Ayrton e participação do prof. Jacinto Carlos e prof. Carlos Veríssimo, além dos integrantes Nathan Morais Adriano da Silva, Pedro Henrique Peruzzi Vanderlei e Gustavo Almeida Carvalho.
 
@@ -63,7 +63,15 @@ Conforme as práticas da metodologia utilizada pela equipe, foi marcada uma reun
 
 Como resposta à equipe, o prof. Ayrton identificou alguns pontos melhorados desde a última apresentação do andamento do projeto, além de sugerir mais melhorias quanto à interface, de modo a oferecer ao aluno maior sensação de progresso. No entanto, a proposta de resolução de exercícios de fixação de conteúdo foi condenada pelo professor de matemática como algo que poderia frustrar o aluno ao colocá-lo à prova, levando-o a desinteressar-se pelo aplicativo. Para ele, o aplicativo deve ser meramente lúdico, de modo a oferecer ao aluno a sensação de como se ele não estivesse estudando, ao invés disso, deveria ser uma forma de entretenimento e que, por consequência da sua imersão com o aplicativo, aprenderia sobre as fórmulas.
 
-Para o professor Carlos, a ideia da realização de exercícios de fixação pode ser implementada, contanto que seja retrabalhada para que alinhe-se com a expectativa do professor Ayrton, de modo a não frustrá-lo ao fazê-los. 
+Para o professor Carlos, a ideia da realização de exercícios de fixação pode ser implementada, contanto que seja retrabalhada para que alinhe-se com a expectativa do professor Ayrton, de modo a não frustrá-lo ao fazê-los.
+
+## Replanejamento dos requisitos
+
+Após reunião ocorrida em 09/09 e estudo mais profundo das ferramentas a serem utilizadas para cumprimento dos requisitos, a equipe percebeu que algumas funcionalidades propostas desviavam da área de atuação estudada pelo curso de AMS-ADS. Logo, os representantes da equipe reportaram a situação aos seus superiores, prof. coordenador Jacinto e prof. Carlos, que propuseram o andamento do projeto, no entanto, abdicando do uso da tecnologia de modelos gráficos que não se encaixa como área de estudo dos alunos do curso de análise e desenvolvimento de sistemas.
+
+## Situação do projeto - 21/09
+
+Na reunião de status/report do dia 21/09 com o prof. Carlos Veríssimo, as equipes deveriam realizar uma breve apresentação do desenvolvimento do projeto, assim como progresso na documentação produzida pela equipe. Após acordado sobre o rumo que a equipe responsável pelo desenvolvimento desse projeto tomaria após a mudança no escopo do projeto.
 
 ## Blog
 
