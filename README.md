@@ -73,6 +73,42 @@ Após reunião ocorrida em 09/09 e estudo mais profundo das ferramentas a serem 
 
 Na reunião de status/report do dia 21/09 com o prof. Carlos Veríssimo, as equipes deveriam realizar uma breve apresentação do desenvolvimento do projeto, assim como progresso na documentação produzida pela equipe. Após acordado sobre o rumo que a equipe responsável pelo desenvolvimento desse projeto tomaria após a mudança no escopo do projeto.
 
+## Instruções do Painel - 07/10
+
+### Objetivo
+
+As equipes foram atribuídas a desenvolverem uma apresentação para os stakeholders do projeto para que possam mostrar à Comunidade Fatec os resultados obtidos no aprendizados relativos à disciplina de Técnicas Avançadas de Programação Web e Mobile e Projeto Integrador e, ao mesmo tempo, proporcionar ao aluno uma simulação do ambiente empresarial.
+
+### Dinâmica do Seminário
+
+As equipes devem realizar uma apresentação no formato de painel à uma plateia física e remota, transmitida e gravada pela plataforma Microsoft Teams. O painel é composto da seguinte estrutura:
+
+- Contexto do qual o projeto está inserido;
+- Proposta de solução elaborada pela equipe;
+- Tecnologias e ferramentas utilizadas;
+- Resultados obtidos.
+
+A equipe deve demonstrar o que foi desenvolvido até o momento, tanto da parte técnica, no que diz repeito a conceitos aprendidos, como também apresentar as funcionalidades desenvolvidas para leigos no desenvolvimento de sistemas.
+
+### Formato de Entrega
+
+A equipe deverá entregar os seguintes artefatos:
+
+- Blog da equipe;
+- Documentação do sistema;
+- Apresentação do seminário (Painel);
+- Código-fonte do sistema.
+
+## Apresentação do Painel - 21/10
+
+As apresentações foram realizadas de acordo com as instruções feitas pelo professor e orientador Carlos Veríssimo no dia 07/10. As equipes apresentaram o painel às outras equipes do curso e stakeholders presentes, os quais forneceram feedback do conteúdo apresentado e fizeram algumas observações como pontos de melhoria.
+
+Adicionalmente, os artefatos requeridos foram entregues pela plataforma Teams como instrumento de avaliação.
+
+## Reunião de validação com Prof. Carlos - 08/11
+
+À medida que a entrega final do [MVP](https://pt.wikipedia.org/wiki/Produto_vi%C3%A1vel_m%C3%ADnimo) do projeto se aproximava, o professor e orientador Carlos passou a marcar reuniões mais frequentes para validação dos requisitos pela plataforma Microsoft Teams. Nessa reunião, as equipes devem apresentar as funcionalidades existentes, assim como os próximos artefatos entregáveis do sistema que serão desenvolvidos.
+
 ## Blog
 
 Saiba mais sobre o processo de desenvolvimento do projeto no nosso [blog](https://produtosmontaveis.blogspot.com/).
